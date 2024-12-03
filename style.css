@@ -106,4 +106,80 @@ body {
   border: rgb(255, 123, 0) solid 3px;
 }
 
+.section {
+  display: flex;
+  background-color: #ff6347;
+  color: white;
+  padding: 20px 0;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.text {
+  width: 800px;
+  letter-spacing: 0.02em;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: 250px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  background: #f7f7f7;
+}
+.block img {
+  width: 50px;
+  height: 50px;
+}
+
+.request {
+  width: 175px;
+  height: 49px;
+  display: flex;
+  align-items: center;
+}
+
+.row {
+  width: 1110px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  justify-content: center;
+}
+
+.buns {
+  width: 1897px;
+  height: 814px;
+  background-image: url(./img/buns.jpg);
+  background-repeat: repeat;
+  background-size: 474px 407px;
+}
+
+.questions {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0;
+  justify-content: center;
+  margin-bottom: 100px;
+  gap: 30px;
+  color: #f7654a;
+}
+
+.answer {
+  font-weight: 500;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: #000;
+  text-align: center;
+  margin-top: 50px;
+}
+
 /*# sourceMappingURL=style.css.map */
