@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+
+.bg-cont {
+  background-image: url(./img/Rectangle.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 740px;
+}
+
+.container-fluid {
+  background-color: aliceblue;
+}
+
+.text-start {
+  font-weight: 500;
+  font-size: 64px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  margin-top: 150px;
+}
+
+.h2-text {
+  font-size: 64px;
+  color: white;
+  text-align: center;
+}
+
+.p-text {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+.naRinke {
+  background-color: aliceblue;
+  width: 1110px;
+  height: 300px;
+  position: absolute;
+  top: 600px;
+  left: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
+
+.naRinke-kajdii {
+  width: 190px;
+  height: 186px;
+}
+
+.n26 {
+  font-weight: 500;
+  font-size: 72px;
+  text-transform: uppercase;
+  text-align: center;
+  color: rgb(226, 132, 24);
+}
+
+.let {
+  font-weight: 500;
+  font-size: 36px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #000;
+}
+
+.sks {
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  color: gray;
+}
+
+.height-bulki {
+  height: 900px;
+  background-color: white;
+}
+
+.sochnie-bulki {
+  width: 1110px;
+  height: 681px;
+  margin: auto;
+  margin-top: 250px;
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.odna-sochnaia {
+  width: 350px;
+  height: 578px;
+  gap: 15px;
+}
+
+.border-1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 50px;
+  border: rgb(255, 123, 0) solid 3px;
+}
+
+/*# sourceMappingURL=style.css.map */
