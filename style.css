@@ -40,13 +40,11 @@ body {
   background-color: aliceblue;
   width: 1110px;
   height: 300px;
-  position: absolute;
-  top: 600px;
-  left: 380px;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 25px;
+  margin-top: 180px;
 }
 
 .naRinke-kajdii {
