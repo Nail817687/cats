@@ -36,6 +36,11 @@ body {
   font-size: 18px;
 }
 
+.bobr {
+  display: flex;
+  justify-content: center;
+}
+
 .naRinke {
   background-color: aliceblue;
   width: 1110px;
