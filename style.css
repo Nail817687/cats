@@ -154,7 +154,7 @@ body {
 }
 
 .buns {
-  width: 1897px;
+  max-width: 1897px;
   height: 814px;
   background-image: url(./img/buns.jpg);
   background-repeat: repeat;
@@ -201,6 +201,7 @@ body {
   padding: 40px 0;
 }
 .title {
+  text-align: center;
   font-size: 24px;
   margin-bottom: 40px;
   color: #333;
